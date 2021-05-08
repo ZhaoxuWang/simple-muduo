@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
 set(SRCS
-    utils.cc
     Channel.cc
     Epoll.cc
     EventLoop.cc
