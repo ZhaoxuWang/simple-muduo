@@ -7,7 +7,8 @@ stage2 实现一个单线程非阻塞TCP网络编程库 https://blog.csdn.net/we
 
 stage3 将单线程扩展到多线程 https://blog.csdn.net/weixin_38880337/article/details/116533053
 
-在example文件夹中，有几个测试用例
+
+在example文件夹中，有几个测试用例：
 
 chat_server,chat_client：是一个单聊天室的用例
 
